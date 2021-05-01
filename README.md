@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**Kryptobellion** is dedicated to promote NFT usage on mobile platform and help Artist to reach a large community of people who love art.
+**Kryptobellion** is a Speed Card Game powered by NFT & Blockchain
 Made by @Mint
 
 <!--
