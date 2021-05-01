@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 **Kryptobellion** is a Speed Card Game powered by NFT & Blockchain
-Made by @Mint
+
+Burn & Mint
 
 <!--
 **Kryptobellion/Kryptobellion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
